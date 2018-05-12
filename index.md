@@ -6,14 +6,19 @@
 
 ## Marcos Echevarria
 
-Essa é minha página pessoal, irei colocar vários projetos aqui dentro
+Essa é a página que iremos utilizar para disponibilizar o material dado em aula na Pós Graduação da Faculdade de Tecnologia Senac.
 
-#### Projeto Git
+#### Aulas
+
+Aula 001 - [Introdução](https://docs.google.com/presentation/d/1TKlxBIbCcONGALe1pOmOoqMhwrV3_EO-YuyHdGl0Qls/edit?usp=sharing)
 
 #### Projeto nodejs
 
+Teremos um link aqui
+
 #### Projeto express.js 
 
+Teremos um link aqui
 
 ### Contato
 
