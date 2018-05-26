@@ -38,7 +38,7 @@ Aula 011 - [Utilizando o Git-Flow](https://docs.google.com/presentation/d/1GiZZt
 
 #### Projeto express.js 
 
-[Projeto utilizando node.js](https://github.com/echevarria/nodepos)
+[Projeto utilizando express.js](https://github.com/echevarria/expressjspos)
 
 ### Contato
 
