@@ -28,13 +28,17 @@ Aula 008 - [Diminuindo a dor de cabeça](https://docs.google.com/presentation/d/
 
 Aula 009 - [Trabalhando em equipe com o GitHub](https://docs.google.com/presentation/d/1JKRuROpGLErdtNUHNfgpitRInZNSiNHATdisjbwSM9o/edit?usp=sharing)
 
+Aula 010 - [Node Package Manager](https://docs.google.com/presentation/d/11GBK7-qDGSPSoSDO8B-tWyp_2yewtSy4WEvMR1IKsVg/edit?usp=sharing)
+
+Aula 011 - [Utilizando o Git-Flow](https://docs.google.com/presentation/d/1GiZZtE-nlHsoZL9C9vZV2aIdVw_FM77e44JbgRNyF-A/edit?usp=sharing)
+
 #### Projeto nodejs
 
-Teremos um link aqui
+[Projeto utilizando node.js](https://github.com/echevarria/nodepos)
 
 #### Projeto express.js 
 
-Teremos um link aqui
+[Projeto utilizando node.js](https://github.com/echevarria/nodepos)
 
 ### Contato
 
