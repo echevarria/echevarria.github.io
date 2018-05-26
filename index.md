@@ -22,6 +22,12 @@ Aula 005 - [Pinceladas de node.js](https://docs.google.com/presentation/d/1kME5m
 
 Aula 006 - [GitHub Pages](https://docs.google.com/presentation/d/1zgIHzg2SCITrxpp2ceV4hTfCTtK2x6XMyafWYcWcqK0/edit?usp=sharing)
 
+Aula 007 - [Trabalhando com várias branches](https://docs.google.com/presentation/d/1fbG2yBRsSrVnKOs4-f1xYXGmvKGGAJ6AsSZCvsDH6_M/edit?usp=sharing)
+
+Aula 008 - [Diminuindo a dor de cabeça](https://docs.google.com/presentation/d/1o9rhAYGrAu4RyQXmW47WqacstRW8a5oaVwgQqMH9AlI/edit?usp=sharing)
+
+Aula 009 - [Trabalhando em equipe com o GitHub](https://docs.google.com/presentation/d/1JKRuROpGLErdtNUHNfgpitRInZNSiNHATdisjbwSM9o/edit?usp=sharing)
+
 #### Projeto nodejs
 
 Teremos um link aqui
