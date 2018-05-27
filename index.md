@@ -7,7 +7,7 @@
 Marcos Echevarria
 ===============
 
-## Pós Graduação Senac Pelotas
+## Pós-Graduação Senac Pelotas
 
 Essa é a página que iremos utilizar para disponibilizar o material dado em aula na Pós Graduação da Faculdade de Tecnologia Senac.
 
@@ -46,7 +46,38 @@ Aula 012 - [Contribuindo com a comunidade](https://docs.google.com/presentation/
 
 [Projeto utilizando express.js](https://github.com/echevarria/expressjspos)
 
+#### Projeto final para o fork 
 
+[Projeto utilizando para a atividade final da disciplina](https://github.com/echevarria/senacpos)
+
+#### Atividade final
+
+1.  Dar fork no projeto senacpos do GitHub (link acima)
+2.  Clonar o fork na sua máquina
+3.  Criar uma nova feature no projeto
+4.  Criar um diretório com o seu nome no projeto
+5.  Adicionar o arquivo index.html no diretório criado
+6.  Dentro do arquivo, colocar o código
+
+        <html>
+            <head>
+                <title>Seu Nome</title>
+            </head>
+            <body>
+                <a href="">Link do fork</a>
+            </body>
+        </html>
+          
+7.  Fazer commit para fechar a issue aberta com seu nome no repositório original
+8.  Dar push da feature para o fork
+9.  Criar uma pull request da sua feature para a branch develop do repositório original
+10. Esperar o aceite e o merge no repositório original
+
+        if (issue == 'Closed') {
+            console.log('Aluno aprovado!');
+        } else {
+            console.log('Tente novamente.');
+        }
 
 > ### Contato
 >
