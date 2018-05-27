@@ -4,7 +4,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Marcos Echevarria
+Marcos Echevarria
+===============
+
+## Pós Graduação Senac Pelotas
 
 Essa é a página que iremos utilizar para disponibilizar o material dado em aula na Pós Graduação da Faculdade de Tecnologia Senac.
 
@@ -32,6 +35,9 @@ Aula 010 - [Node Package Manager](https://docs.google.com/presentation/d/11GBK7-
 
 Aula 011 - [Utilizando o Git-Flow](https://docs.google.com/presentation/d/1GiZZtE-nlHsoZL9C9vZV2aIdVw_FM77e44JbgRNyF-A/edit?usp=sharing)
 
+Aula 012 - [Contribuindo com a comunidade](https://docs.google.com/presentation/d/1f7tBcIHYT3vPJATEooFSYbV45wLE4Y8gPOVHvwr8b9c/edit?usp=sharing)
+
+
 #### Projeto nodejs
 
 [Projeto utilizando node.js](https://github.com/echevarria/nodepos)
@@ -40,7 +46,18 @@ Aula 011 - [Utilizando o Git-Flow](https://docs.google.com/presentation/d/1GiZZt
 
 [Projeto utilizando express.js](https://github.com/echevarria/expressjspos)
 
-### Contato
 
-quinho@gmail.com
+
+> ### Contato
+>
+> - quinho@gmail.com
+
+
+
+> ### Palestras
+>
+> - Tchê Linux Rio Grande 2018 [Ver mais](https://docs.google.com/presentation/d/1pAamTN3a0dSDrlnTiEr-TjgAIP0wPsYWw7Y_nKP29Bs/edit?usp=sharing)
+
+
+
 
