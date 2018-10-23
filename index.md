@@ -1,13 +1,30 @@
-<p align="center"><img src="https://www.senacrs.com.br/imagens/senac_logo.png"></p>
+Marcos Echevarria
+===============
 
 <p align="center">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Marcos Echevarria
-===============
+[Palestras](https://echevarria.github.io/#palestras)
+[Pós-Graduação Senac Pelotas](https://echevarria.github.io/#p%C3%B3s-gradua%C3%A7%C3%A3o-senac-pelotas)
+
+
+## Palestras
+
+<p align="center"><img src="http://renatadeazevedo.com.br/wp-content/uploads/2017/12/ICO-PALESTRA.png"></p>
+
+
+[Tchê Linux - Rio Grande - 2018](https://docs.google.com/presentation/d/1pAamTN3a0dSDrlnTiEr-TjgAIP0wPsYWw7Y_nKP29Bs/edit?usp=sharing)
+
+[Tchê Linux - Pelotas - 2018](https://docs.google.com/presentation/d/1ItxNHvvr19iZRi5wCJOqBs2g-h6mi9lmFQzSyg8U3wI/edit?usp=sharing)
+
+[IF Sul - Pelotas - 2018](https://docs.google.com/presentation/d/1fQVVNkBhG65-G0V5SV4gsYBqLcZ5vF-WmLujQcamieU/edit?usp=sharing)
+
+
 
 ## Pós-Graduação Senac Pelotas
+
+<p align="center"><img src="https://www.senacrs.com.br/imagens/senac_logo.png"></p>
 
 Essa é a página que iremos utilizar para disponibilizar o material dado em aula na Pós Graduação da Faculdade de Tecnologia Senac.
 
