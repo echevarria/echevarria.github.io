@@ -5,8 +5,10 @@ Marcos Echevarria
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-[Palestras](https://echevarria.github.io/#palestras)
-[Pós-Graduação Senac Pelotas](https://echevarria.github.io/#p%C3%B3s-gradua%C3%A7%C3%A3o-senac-pelotas)
+> * [Palestras](https://echevarria.github.io/#palestras)
+> * [Pós-Graduação Senac Pelotas](https://echevarria.github.io/#p%C3%B3s-gradua%C3%A7%C3%A3o-senac-pelotas)
+> * [Contato](https://echevarria.github.io/#contato)
+
 
 
 ## Palestras
@@ -19,6 +21,8 @@ Marcos Echevarria
 [Tchê Linux - Pelotas - 2018](https://docs.google.com/presentation/d/1ItxNHvvr19iZRi5wCJOqBs2g-h6mi9lmFQzSyg8U3wI/edit?usp=sharing)
 
 [IF Sul - Pelotas - 2018](https://docs.google.com/presentation/d/1fQVVNkBhG65-G0V5SV4gsYBqLcZ5vF-WmLujQcamieU/edit?usp=sharing)
+
+
 
 
 
@@ -99,13 +103,4 @@ Aula 012 - [Contribuindo com a comunidade](https://docs.google.com/presentation/
 > ### Contato
 >
 > - quinho@gmail.com
-
-
-
-> ### Palestras
->
-> - Tchê Linux Rio Grande 2018 [Ver mais](https://docs.google.com/presentation/d/1pAamTN3a0dSDrlnTiEr-TjgAIP0wPsYWw7Y_nKP29Bs/edit?usp=sharing)
-
-
-
 
