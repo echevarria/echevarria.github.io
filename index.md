@@ -5,9 +5,9 @@ Marcos Echevarria
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-> * [Palestras](https://echevarria.github.io/#palestras)
-> * [Pós-Graduação Senac Pelotas](https://echevarria.github.io/#p%C3%B3s-gradua%C3%A7%C3%A3o-senac-pelotas)
-> * [Contato](https://echevarria.github.io/#contato)
+* [Palestras](https://echevarria.github.io/#palestras)
+* [Pós-Graduação Senac Pelotas](https://echevarria.github.io/#p%C3%B3s-gradua%C3%A7%C3%A3o-senac-pelotas)
+* [Contato](https://echevarria.github.io/#contato)
 
 
 
