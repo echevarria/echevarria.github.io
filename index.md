@@ -22,7 +22,7 @@ Marcos Echevarria
 
 [IF Sul - Pelotas - 2018](https://docs.google.com/presentation/d/1fQVVNkBhG65-G0V5SV4gsYBqLcZ5vF-WmLujQcamieU/edit?usp=sharing)
 
-[Tchê Linux - Rio Grande - 2019](https://docs.google.com/presentation/d/1ItxNHvvr19iZRi5wCJOqBs2g-h6mi9lmFQzSyg8U3wI/edit?usp=sharing)
+[Tchê Linux - Rio Grande - 2019](https://docs.google.com/presentation/d/1ji-LQ8avoyQHSYOFLbxuCTTL80I76r4-y-Gdci7SE0s/edit?usp=sharing)
 
 
 ## Pós-Graduação Senac Pelotas
